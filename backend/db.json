@@ -8,8 +8,14 @@
   ],
   "post": [
     {
-      "idPerson": 1,
-      "Post": "COMENTARIO"
+      "name": "Fulana da Costa",
+      "post": "SDASDASDASD",
+      "id": 2
+    },
+    {
+      "name": "Fulana da Silva",
+      "post": "ASDASDASDASd",
+      "id": 3
     }
   ]
 }

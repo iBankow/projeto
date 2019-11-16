@@ -11,3 +11,11 @@ aside.logo img {
     align-items: center;
     justify-content: center;
 }
+
+@media(max-width: 576px) {
+    aside.logo img {
+        width: 350px;
+        padding: 0px 15px;
+        width: 100%;
+    }
+}

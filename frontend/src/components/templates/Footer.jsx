@@ -3,6 +3,6 @@ import React from 'react'
 
 export default props =>
     <footer className="footer">
-        <span>Desenvolvido por<strong> Bankow</strong>
+        <span><strong>Nao se cale! </strong><i className="fa fa-volume-up"></i>
         </span>
     </footer>
