@@ -13,5 +13,5 @@ aside.menu-area {
 }
 
 .menu a:hover {
-    background: linear-gradient(135deg, rgb(255, 0, 200) 0%, purple 100%);
+    background: linear-gradient(135deg, #ec1d63 0%, pink 100%);
 }
