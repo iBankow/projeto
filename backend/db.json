@@ -1,19 +1,15 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email":"arthur.oliveira@email.com"
-    },{
-        "id": 2,
-        "name": "Maria Silva",
-        "email":"maria.silva@email.com"        
-    },{
-        "id": 3,
-        "name": "João Paranhos",
-        "email":"arthur.oliveira@email.com"
-    }],
-    "post":[{
-        "idPerson": 1,
-        "Post": "COMENTARIO"
-    }]
+  "users": [
+    {
+      "name": "Tiago Bankow",
+      "email": "tiago.bankow@email.com",
+      "id": 1
+    }
+  ],
+  "post": [
+    {
+      "idPerson": 1,
+      "Post": "COMENTARIO"
+    }
+  ]
 }
