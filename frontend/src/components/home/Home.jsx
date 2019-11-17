@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Main from '../templates/Main';
+import Mural from './UltimosRelatos'
 
 export default props =>
     <Main icon="home" title="Inicio"subtitle="#VOCETEMDIREITO">
@@ -8,6 +9,9 @@ export default props =>
         </div>
         <hr/>
         <p className="mb-0">
-            EXEMPLO
+            <strong> <i className="fa fa-clock-o"></i> Ultimos Relatos</strong>
         </p>
+        <div>
+        <Mural/>
+        </div>
     </Main>

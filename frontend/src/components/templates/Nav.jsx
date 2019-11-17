@@ -13,6 +13,9 @@ export default props =>
             </Link>
             <Link to="/Mural">
                 <i className="fa fa-comment"></i>Relatos
+            </Link>
+            <Link to="/delegacia" className="deg">
+                <i className="fa fa-map"></i>Delegacias
             </Link>       
         </nav>
     </aside>

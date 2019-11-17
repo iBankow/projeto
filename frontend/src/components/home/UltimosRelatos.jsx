@@ -134,19 +134,13 @@ export default class Mural extends Component {
 
     render(){
         return(
-            <Main icon="comment" title="Mural"subtitle="#VOCETEMDIREITO">
-                {this.renderForm()}
+            <body>
                 <div className="display-4">
-                    Mural
                 </div>
-                <hr/>
-                <p className="mb-0">
-                    Relatos das mulheres:
-                </p>
                 <div>
                     {this.renderTable()}
                 </div>
-            </Main>
+            </body>
             )
         }
     }
